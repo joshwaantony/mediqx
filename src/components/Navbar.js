@@ -111,7 +111,7 @@ function Navbar() {
   return (
     <div className="w-full absolute z-50 bg-white xl:bg-transparent">
       {/* Top Navbar */}
-      <div className="w-full flex justify-between items-center px-[80px] 2xl:px-[195px] pt-4">
+      <div className="w-full flex justify-between items-center px-6 2xl:px-[195px] pt-4">
         <div>
           <img src="/Mediqxlogo.svg" alt="logo"  className="w-24 md:w-auto pb-2 md:pb-0"/>
         </div>
